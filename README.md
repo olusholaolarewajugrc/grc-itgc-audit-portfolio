@@ -1,22 +1,22 @@
-# grc-itgc-audit-portfolio
-Simulated GRC and ITGC audit portfolio projects.
-# GRC Cybersecurity Portfolio
+# Cybersecurity GRC / IT Audit Portfolio
 
-This portfolio documents my hands-on learning and practice in Governance, Risk, and Compliance (GRC) cybersecurity.
+Welcome to my hands-on cybersecurity Governance, Risk, and Compliance (GRC) portfolio.
 
-The projects are based on simulated lab environments where I practice identifying controls, assessing risks, evaluating control effectiveness, and documenting audit-style findings.
+This repository contains practical audit simulations and governance projects designed to demonstrate real-world GRC concepts and hands-on experience.
 
 ## Projects
 
-### Project 1: ITGC Audit Simulation — Access Review Process
-This project focuses on IT General Controls (ITGC), specifically privileged access reviews.
+### Project 1: ITGC Access Review Simulation
 
-Key areas covered:
-- ITGC control identification
-- Privileged access risk analysis
-- Control effectiveness assessment
-- Simulated audit testing
-- Audit finding documentation
-- Recommendation development
+Simulated audit engagement focused on privileged access reviews and IT General Controls (ITGC).
 
-[View Project 1](./project-1-itgc-access-review/)
+Contents:
+
+- Control analysis
+- Audit findings
+- Supporting evidence
+- Documentation and recommendations
+
+Location:
+
+project-1-itgc-access-review/
