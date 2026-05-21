@@ -61,3 +61,13 @@ The organization should implement a formal privileged access review process that
 ## Disclaimer
 
 This is a simulated audit project created for learning and portfolio purposes. It does not represent an audit of a real organization.
+
+## Audit Documents
+
+1. 01-control-analysis.md – Documents the control reviewed and testing approach.
+
+2. 02-audit-finding.md – Documents observations, risks, and recommendations.
+
+3. 03-evidence-notes.md – Supporting evidence notes.
+
+4. 04-Access Review Process.png – Screenshot evidence collected during testing.
