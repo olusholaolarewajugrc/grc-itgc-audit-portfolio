@@ -2,7 +2,7 @@
 
 ## Testing Objective
 
-Determine whether Multi-Factor Authentication (MFA) is operating effectively.
+Determine whether Multi-Factor Authentication (MFA) is operating effectively for administrative access.
 
 ## Sample Selected
 
