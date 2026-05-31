@@ -9,6 +9,8 @@
 
 ## Evidence Assessment
 
+The evidence demonstrated that MFA is implemented through Okta and enforced for administrative access.
+
 The evidence demonstrated that MFA was:
 
 * Implemented
