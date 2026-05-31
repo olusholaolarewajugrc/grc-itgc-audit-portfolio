@@ -16,10 +16,10 @@ To evaluate whether Multi-Factor Authentication (MFA) is implemented and operati
 
 The review focused on determining whether:
 
-* MFA is enabled for user accounts.
-* MFA is enforced for privileged accounts.
-* Authentication controls are monitored.
-* Users are required to provide multiple forms of authentication before access is granted.
+- MFA is enforced for administrative accounts.
+- Administrative users are required to provide multiple authentication factors.
+- Authentication controls are continuously enforced through Okta.
+- Access to privileged resources requires MFA.
 
 ## Audit Result
 
