@@ -9,7 +9,7 @@ To evaluate whether changes to production systems are properly authorized, teste
 - Framework: COBIT
 - Reference: BAI06
 - Control Owner: DevOps
-- Frequency: Per Change
+- Frequency: Continuous
 - Effectiveness: Effective
 
 ## Audit Scope
