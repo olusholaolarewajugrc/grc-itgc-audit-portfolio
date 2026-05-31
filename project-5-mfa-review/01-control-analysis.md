@@ -2,7 +2,7 @@
 
 ## Control Objective
 
-To ensure that user accounts are protected through the use of multiple authentication factors before access is granted.
+To ensure that administrative accounts are protected through the use of Multi-Factor Authentication (MFA) before access is granted.
 
 ## Risk Addressed
 
