@@ -16,6 +16,10 @@ This folder contains supporting evidence for the Multi-Factor Authentication (MF
 * Frequency: Continuous
 * Effectiveness: Effective
 
+### Description
+
+MFA via Okta for all admin access.
+
 ### Auditor Note
 
-The screenshot was reviewed as supporting evidence of the documented MFA control within the simulated GRC environment.
+The screenshot was reviewed as supporting evidence that Multi-Factor Authentication (MFA) is implemented through Okta and enforced for administrative access within the simulated GRC environment.
